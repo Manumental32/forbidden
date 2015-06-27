@@ -1,2 +1,2 @@
 # forbidden
-bloquear acceso a carpeto con .htaccess y htpasswd
+bloquear acceso a carpeta con .htaccess y htpasswd
